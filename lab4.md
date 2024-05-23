@@ -26,5 +26,6 @@
 >
 > 
 ## Step 9: Commit and push the resulting change to your GitHub account (you can pick any commit message!)
-![Image](9.png)
+![Image](9-1.png)
+![Image](9-2.png)
 > 
