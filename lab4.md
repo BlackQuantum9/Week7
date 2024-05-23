@@ -1,6 +1,6 @@
 ## Step 4: Log into ieng6
 ![Image](4.png)
-> Click on <Remote Explorer>, then <ssh>, <ieng6.ucsd>, 
+> Click on `Remote Explorer`, then `ssh`, `ieng6.ucsd`, and finally click on `yul239`. At this point, it is connected to ieng6.
 ## Step 5: Clone your fork of the repository from your GitHub account (using the SSH URL)
 ![Image](5.png)
 ## Step 6: Run the tests, demonstrating that they fail
