@@ -15,14 +15,14 @@
 > 
 ## Step 7: Edit the code file to fix the failing test
 ![Image](7-1.png)
-> Type `vim<space>ListExamples.java` to start the vim editor. In this way, it prints the content in the terminal which allows user to edit it directly from terminal.
+> Type `vim<space>ListExamples.java` to start the vim editor. In this way, it prints the content in the terminal which allows the user to edit it directly from the terminal.
 > 
 ![Image](7-2.png)
 > Then change the `index1` to `index2` to fix the error.
 > 
 ## Step 8: Run the tests, demonstrating that they now succeed
 ![Image](8.png)
-> Then, run the test again by typing `bash<space>test.sh`.
+> Then, rerun the test by typing `bash<space>test.sh`.
 >
 > 
 ## Step 9: Commit and push the resulting change to your GitHub account (you can pick any commit message!)
