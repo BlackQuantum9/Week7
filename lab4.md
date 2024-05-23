@@ -1,5 +1,5 @@
 ## Step 4: Log into ieng6
-
+![Image](4.png)
 ## Step 5: Clone your fork of the repository from your Github account (using the SSH URL)
 ## Step 6: Run the tests, demonstrating that they fail
 ## Step 7: Edit the code file to fix the failing test
