@@ -28,4 +28,4 @@
 ## Step 9: Commit and push the resulting change to your GitHub account (you can pick any commit message!)
 ![Image](9-1.png)
 ![Image](9-2.png)
-> 
+> For step 9, type `git<space>add<space>ListExamples.java` to add a change in the working directory to the staging area, then type `git<space>commit<space>-m<space>"X"` in order to capture a snapshot of the project's currently staged changes, `-m<space>"X"` means to return message "X", and finally `git<space>push` to upload local repo content to a remote repo.
