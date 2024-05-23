@@ -18,8 +18,13 @@
 > Type `vim<space>ListExamples.java` to start the vim editor. In this way, it prints the content in the terminal which allows user to edit it directly from terminal.
 > 
 ![Image](7-2.png)
-> Then 
+> Then change the `index1` to `index2` to fix the error.
+> 
 ## Step 8: Run the tests, demonstrating that they now succeed
 ![Image](8.png)
+> Then, run the test again by typing `bash<space>test.sh`.
+>
+> 
 ## Step 9: Commit and push the resulting change to your GitHub account (you can pick any commit message!)
 ![Image](9.png)
+> 
