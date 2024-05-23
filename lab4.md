@@ -6,11 +6,19 @@
 ## Step 5: Clone your fork of the repository from your GitHub account (using the SSH URL)
 ![Image](5.png)
 > Type `git<space>clone<space>`, then paste the SSH URL `git@github.com:BlackQuantum9/lab7.git` which is got from the forked gitbub page next to it. Then press `enter` to clone the entire repo.
+>
+> 
 ## Step 6: Run the tests, demonstrating that they fail
 ![Image](6.png)
+> Enter `bash<space>test.sh` to run the test. Then it shows there is one failure in file `ListExamples.java > line42`.
+>
+> 
 ## Step 7: Edit the code file to fix the failing test
 ![Image](7-1.png)
+> Type `vim<space>ListExamples.java` to start the vim editor. In this way, it prints the content in the terminal which allows user to edit it directly from terminal.
+> 
 ![Image](7-2.png)
+> Then 
 ## Step 8: Run the tests, demonstrating that they now succeed
 ![Image](8.png)
 ## Step 9: Commit and push the resulting change to your GitHub account (you can pick any commit message!)
